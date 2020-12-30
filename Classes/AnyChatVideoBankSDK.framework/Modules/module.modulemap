@@ -1,0 +1,6 @@
+framework module AnyChatVideoBankSDK {
+  umbrella header "AnyChatVideoBankSDK.h"
+
+  export *
+  module * { export * }
+}
